@@ -1,2 +1,2 @@
 # PowerBI_DonutChart_Assignment
-PowerBI analysis has been done in this assignments with the help of Donut chart, Slicers, Filters and Map visualization.
+PowerBI Analysis has been done in this assignment with the help of Donut chart, Slicer, Filter and Map visualization.
